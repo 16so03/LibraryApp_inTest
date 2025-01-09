@@ -91,6 +91,7 @@
                     <parallel>methods</parallel>
                     <useUnlimitedThreads>true</useUnlimitedThreads>
                     <testFailureIgnore>true</testFailureIgnore>
+                    <perCoreThreadCount>false</perCoreThreadCount>
                     <runOrder>Alphabetical</runOrder>
                     <includes>
                         <include>**/*CukesRunner.java</include>
